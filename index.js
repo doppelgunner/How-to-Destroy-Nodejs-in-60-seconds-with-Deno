@@ -1,1 +1,0 @@
-console.log('Hi DENO.js and goodbye node');
